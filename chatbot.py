@@ -1,5 +1,3 @@
-import os
-os.chdir('C://Users/MateuszUser/Documents/chatbot')
 import random
 import json
 import pickle
