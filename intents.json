@@ -1,0 +1,23 @@
+{"intents": [
+    {
+        "tag": "greetings",
+        "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up", "whats up", "how is it going?"],
+        "responses": ["Hello!", "Hey!", "How are you?"]
+    },
+    {
+        "tag": "trumpet",
+        "patterns": ["trumpet", "what is a trumpet", "trump et", "trumet"],
+        "responses": ["A trumpet is a brass instrument", "The trumpet is a brass instrument commonly used in classical and jazz ensembles. The trumpet group ranges from the piccolo trumpet with the highest register in the brass family, to the bass trumpet, which is pitched one octave below the standard B♭ or C Trumpet.", "Its the best instrument. :)"]
+    },
+    {
+        "tag": "altosaxaphone",
+        "patterns": ["saxaphone", "saxamaphone", "saxafone", "alto sax"],
+        "responses": ["A saxaphone is a woodwind instrument", "The alto saxophone, also referred to as the alto sax or simply the alto, is a member of the saxophone family of woodwind instruments invented by Belgian instrument designer Adolphe Sax in the 1840s, and patented in 1846. It is pitched in E♭, and is smaller than the tenor, but larger than the soprano."]
+    },
+    {
+        "tag": "altovstrumpet",
+        "patterns": ["Trumpet vs alto saxaphone", "What is better trumpet or alto saxaphone", "Alto vs trumpet", "what is better alto saxaphone or trumpet", "saxaphone vs trumpet", "trumpet or sax", "sax or trumpet", "trumpet or saxaphone", "saxaphone or trumpet"],
+        "responses": ["Trumpet is better than (Alto) Saxaphone. ", "Trumpet on top!!!", "Alto Sax is trash. "]
+    }
+
+]}
